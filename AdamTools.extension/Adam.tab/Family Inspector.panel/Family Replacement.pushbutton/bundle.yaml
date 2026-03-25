@@ -1,0 +1,10 @@
+tooltip: |
+  Replace level-based instance with face-based instance.
+
+  Steps:
+  1. Select old instance
+  2. Pick target type
+  3. Pick wall face
+
+  Author:
+  Adam Zhao · 2026 (vibe coding)

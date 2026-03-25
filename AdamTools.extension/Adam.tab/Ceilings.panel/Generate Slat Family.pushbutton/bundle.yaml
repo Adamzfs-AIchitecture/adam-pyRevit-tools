@@ -1,0 +1,11 @@
+tooltip: |
+  Replace level-based instance with face-based instance.
+
+  Steps:
+  1. Input slat parameters
+  2. Select family template (.rft)
+  3. Choose save location
+  4. Family is generated automatically
+
+  Author:
+  Adam Zhao · 2026 (vibe coding)

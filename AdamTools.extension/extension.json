@@ -1,7 +1,13 @@
 {
   "name": "Adam Tools",
   "author": "Adam Zhao",
-  "description": "pyRevit tools for BIM automation and architectural production",
-  "version": "1.0",
-  "url": "https://github.com/Adamzfs-Alchitecture/adam-pyRevit-tools"
+  "description": "A custom pyRevit toolkit for BIM automation, architectural production, and workflow optimization. Designed to streamline repetitive tasks, enhance model inspection, and support intelligent Revit workflows.",
+  "version": "1.1",
+  "url": "https://github.com/Adamzfs-Alchitecture/adam-pyRevit-tools",
+  "changelog": [
+    "Added family instance replacement workflow",
+    "Added alignment tools for Viewports alignment across sheets",
+    "Enhanced tooltip system using bundle.yaml",
+    "General performance and stability improvements"
+  ]
 }

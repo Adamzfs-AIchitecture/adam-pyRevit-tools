@@ -1,0 +1,22 @@
+title: Align View
+
+tooltip: |
+  Align Area Plan and Floor Plan viewports across sheets by grid intersection anchor.
+
+  ✔ Supports Area Plan and Floor Plan views  
+  ✔ Uses selected reference viewport position  
+  ✔ Aligns by chosen grid intersection  
+  ✔ Optional view name filter for target plans  
+
+  Steps:
+  1. Pick reference viewport
+  2. Enter two grid names
+  3. Set optional view name filter
+  4. Select target sheets
+  5. Tool aligns matching viewports automatically
+
+  Author:
+  Adam Zhao · 2026
+
+image: tooltip.png
+video: tooltip.mp4
